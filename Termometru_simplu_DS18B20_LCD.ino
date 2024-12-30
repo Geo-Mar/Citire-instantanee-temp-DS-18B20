@@ -1,13 +1,13 @@
 
 //=========================================================//
-//=                   Codul  Arduino                                                                      =//
-//=                       pentru                                                                                =//
-//=              Termometru simplu cu DS18B20                                             =//
-//=                 si afisare pe LCD 16x2 
-//=                         V-2       
-//=     citire instantanee temperatura DS18B20 fara delay                 
-//=          https://hobby-geomar.blogspot.com/                                          =//
-//=======================================================//
+//=                   Codul  Arduino                      =//                                               
+//=                       pentru                          =//                                                      
+//=              Termometru simplu cu DS18B20             =//                           
+//=                 si afisare pe LCD 16x2                =//
+//=                         V-2                           =//
+//=    citire instantanee temperatura DS18B20 fara delay  =//                
+//=          https://hobby-geomar.blogspot.com/           =//                              
+//=========================================================//
 
 //--- Biblioteci necesare -------
 #include <OneWire.h>
